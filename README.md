@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jake Hickman
+- 👋 Hi, my name is Jake Hickman, nice to meet you!
 - 👀 I’m interested in learning how to code to eventually get a job as a software developer
 - 🌱 I’m currently learning the basics of HTML, CSS & Javascript by doing The Odin Project Foundations course
 - 💞️ I’m looking to collaborate on any basic projects to help me learn faster
